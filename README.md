@@ -41,13 +41,16 @@
   <tr>
     <td>
 
-<a href="https://github.com/iuricode" title="Perfil do Iuri">
+
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=borgesmax&theme=dracula&show_icons=true" />
-</a>
+
 </td>
     <td>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
-      
+    </td>
+    <td>
+     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=borgesmax&theme=dracula&show_icons=true"/>
+    </td>
 </table>
 
 ## Onde me encontrar
