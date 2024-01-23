@@ -57,4 +57,4 @@
 [![GitHub](https://img.shields.io/github/followers/borgesmax?label=follow&style=social)](https://github.com/borgesmax)
 
 
-![Snake animation](https://github.com/borgesmax/borgesmax/blob/output/github-contribution-grid-snake.svg)
+
